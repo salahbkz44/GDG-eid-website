@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&display=swap");
+@import "tailwindcss";
+@theme {
+  --font-eid: "Berkshire Swash", "sans-serif";
+  --font-arabic: "Aref Ruqaa", "sans-serif";
+  --font-lora: "Lora", "sans-serif";
+  --color-eid-blue: #0b1a4e;
+  --color-border-button: #ffb74a;
+  --color-main: #fff2dc;
+}
+
+html {
+  background-color: #fff2dc;
+}
